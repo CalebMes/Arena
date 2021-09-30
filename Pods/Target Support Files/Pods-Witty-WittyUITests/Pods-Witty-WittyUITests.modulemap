@@ -1,0 +1,6 @@
+framework module Pods_Witty_WittyUITests {
+  umbrella header "Pods-Witty-WittyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

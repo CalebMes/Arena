@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>130265564361-mdk4q83tsmj6k3cqpnpljr7ggmikurvr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.130265564361-mdk4q83tsmj6k3cqpnpljr7ggmikurvr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwksLqX0_AdxMSlb5p_OEpSGd5ACMVdbg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130265564361</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CM.Witty</string>
+	<key>PROJECT_ID</key>
+	<string>newsbite-6db22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsbite-6db22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130265564361:ios:0803c7a586d37a7fed3918</string>
+</dict>
+</plist>
