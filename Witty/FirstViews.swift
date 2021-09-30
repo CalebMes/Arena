@@ -18,7 +18,7 @@ class WelcomeView: UIViewController, blackViewProtocol, SelectedLoginOption, GID
     var timer =  Timer()
     let realmObjc = try! Realm()
     let appleProvider = AppleSignInClient()
-    let item = 3
+    let item = 2
     
 
     func loginOptions(OptionNum: Int) {
